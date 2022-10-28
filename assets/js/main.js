@@ -1,5 +1,5 @@
 var animation = bodymovin.loadAnimation({
-	container: document.getElementById('lottie'), // Required
+	container: document.getElementById('bm'), // Required
 	path: 'animatetest.json', // Required
 	renderer: 'svg/canvas/html', // Required
 	loop: true, // Optional
